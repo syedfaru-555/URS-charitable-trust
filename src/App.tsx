@@ -1,14 +1,14 @@
-import React from 'react';
-import Header from 'Header';
-import Hero from 'Hero';
-import About from 'About';
-import FeaturedCarousel from 'FeaturedCarousel';
-import Programs from 'Programs';
-import Impact from 'Impact';
-import Gallery from 'Gallery';
-import VolunteerDonate from 'VolunteerDonate';
-import Testimonials from 'Testimonials';
-import Footer from 'Footer';
+import React from 'components/react';
+import Header from 'components/Header';
+import Hero from 'components/Hero';
+import About from 'components/About';
+import FeaturedCarousel from 'components/FeaturedCarousel';
+import Programs from 'components/Programs';
+import Impact from 'components/Impact';
+import Gallery from 'components/Gallery';
+import VolunteerDonate from 'components/VolunteerDonate';
+import Testimonials from 'components/Testimonials';
+import Footer from 'components/Footer';
 
 function App() {
   return (
